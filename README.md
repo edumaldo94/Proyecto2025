@@ -62,6 +62,9 @@ npm update
 ```
 ## Estructura del Proyecto
 
+# **Estructura del Proyecto**
+
+```plaintext
 frontend/
 ├── .expo/
 │   ├── settings.json
@@ -97,3 +100,4 @@ frontend/
 │   └── package-lock.json            #
 ├── .gitignore
 └── README.md
+
